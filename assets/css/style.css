@@ -25,3 +25,25 @@ h1, h2 {
     float: left;
     font-size: 300%;
 }
+
+#menu {
+    font-size: 110%;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+}
+/* why does this stop the float right? 
+.pages {
+    display: flex;
+    flex-direction: row;
+}
+*/
+
+#hero-image {
+    height: 800px;
+    width: 100%;
+    background: url(../images/hero-image-©Phil-Morley-30.jpg) no-repeat center center;
+}

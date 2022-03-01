@@ -7,7 +7,7 @@ Screen Shots
 
 Features
 
-Navigation Bar? not needed as only 1 page. 
+Navigation Bar not needed as only 1 page. 
 #Sutton Hoo           Top  Treasures  History  Visit
 
 links to all sections for easy navigation
@@ -105,3 +105,5 @@ Excavation photos -
  https://archaeology.co.uk/articles/features/secrets-of-sutton-hoo.htm
 
 British Museum Images - https://www.bmimages.com/preview.asp?image=01057007001
+
+Ship sculpture - Phil Morley from https://antique-collecting.co.uk/2019/08/06/treasure-some-time-at-sutton-hoo/
