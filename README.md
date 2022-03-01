@@ -7,8 +7,8 @@ Screen Shots
 
 Features
 
-Navigation Bar 
-#Sutton Hoo           Home  Treasures  History  Visit
+Navigation Bar? not needed as only 1 page. 
+#Sutton Hoo           Top  Treasures  History  Visit
 
 links to all sections for easy navigation
 
@@ -71,6 +71,7 @@ The live link can be found here:
 Credits
 
 Deployment information taken from Love Running README.md file
+How to create an anchor link within a page - W3docs https://www.w3docs.com/snippets/html/how-to-create-an-anchor-link-to-jump-to-a-specific-part-of-a-page.html
 
 
 Content 
