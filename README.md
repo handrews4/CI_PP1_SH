@@ -24,7 +24,7 @@ Photos of the main discoveries with a caption - fig img figcaption - Helmet, Shi
 
 ##History Section
 
-Two areas of text with more in-depth information about the burial and what it has taught us. A timeline of Anglo Saxon Britain from 600 to 700 AD
+Two areas of text with more in-depth information about the burial and what it has taught us. A timeline of Anglo Saxon Britain from 600 to 700 AD. 
 
 paragraph Date of burial, who might have been in the grave 
                                                                                                       unordered list for Timeline of Anglo-Saxon Britain 600-700AD
