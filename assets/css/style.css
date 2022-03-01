@@ -14,7 +14,7 @@ body {
 
 /* Headings and logo */
 
-h1, h2 {
+h1, h2, h3 {
     font-family: Inter, sans-serif;
     font-weight:500;
     color: #0f0606;
@@ -46,6 +46,12 @@ h1, h2 {
 
 #hero-outer {
     clear:both;
+
+    position:relative
+}
+
+#cover-text, #cover-text h2, h3{
+    color: whitesmoke;
 }
 
 #hero-image {
@@ -54,3 +60,21 @@ h1, h2 {
     background: url(../images/hero-image-©Phil-Morley-30.jpg) no-repeat center center;
 }
 
+#cover-text {
+    font-size: 130%;
+    font-family: Source-Sans-Pro;
+    text-transform: uppercase;
+
+    width: 300px;
+    height: 150px;
+
+    padding-top: 40px;
+    padding-left: 10px;
+
+    background-color: rgba(71, 125, 54, 0.6);
+
+    top: 40px;
+    left: 100px;
+
+    position: absolute;
+}

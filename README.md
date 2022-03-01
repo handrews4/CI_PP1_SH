@@ -80,7 +80,7 @@ Content
 Text from - Wikipedia Article
 Icons in the footer from FontAwesome
 Fonts from Google Fonts
-colors selected from Quackit https://www.quackit.com/css/css_color_codes.cfm
+colors selected from Quackit https://www.quackit.com/css/css_color_codes.cfm and https://rgbacolorpicker.com/
 
 
 Media
