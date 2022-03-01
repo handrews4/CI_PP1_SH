@@ -28,19 +28,31 @@ h1, h2, h3 {
 
 #menu {
     font-size: 110%;
+    
+}
+
+#menu, #logo {
+    line-height: 75px;
 }
 
 #menu li {
     float: right;
     list-style-type: none;
     margin-right: 30px;
+    
 }
-/* why does this stop the float right? 
-.pages {
-    display: flex;
-    flex-direction: row;
+
+
+#menu a {
+    color: darkslategrey;
+    text-decoration: none;
 }
-*/
+
+#menu a:hover {
+    color:darkolivegreen;
+    text-decoration: underline;
+}
+
 
 /* hero image */
 
