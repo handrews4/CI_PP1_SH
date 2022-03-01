@@ -7,6 +7,21 @@
 }
 
 body {
+    font-family: Source-Sans-Pro, sans-serif;
+    font-weight: 300;    
+    color: #1b0c0c
+}
+
+/* Headings and logo */
+
+h1, h2 {
     font-family: Inter, sans-serif;
     font-weight:500;
+    color: #0f0606;
+    text-transform:uppercase;
+}
+
+#logo {
+    float: left;
+    font-size: 300%;
 }

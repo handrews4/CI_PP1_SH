@@ -78,12 +78,29 @@ Content
 
 Text from - Wikipedia Article
 Icons in the footer from FontAwesome
+Fonts from Google Fonts
+colors selected from Quackit https://www.quackit.com/css/css_color_codes.cfm
 
 
 Media
 
-Photos from - 
+Photos from:
+
+Wikipedia:git
+
+reconstructed helmet - By Gernot Keller (Own work)- 2008-05-17-SuttonHoo.jpg - cropped &amp; slightly brightened - 2008-05-17-SuttonHoo.jpgGernot Keller (Own work), CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=11741030
+
+sutton hoo burial - By Gernot Keller www.gernot-keller.com - Own work, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=4078268
 
 
+shield - By Colin Payne (minophis) from Leighton Buzzard, UK - Flickr, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=1609843
 
+gold belt, helmet, purse, belt buckle and shoulder clasps -   By Jononmac46 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=31937696
 
+British Museum - Helmet, gold belt buckle 
+
+Excavation photos -
+
+ https://archaeology.co.uk/articles/features/secrets-of-sutton-hoo.htm
+
+British Museum Images - https://www.bmimages.com/preview.asp?image=01057007001
