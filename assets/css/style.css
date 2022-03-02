@@ -120,3 +120,46 @@ h1, h2, h3 {
     height: 300px;
     
 }
+
+/* middle div */
+
+#middle-left {
+    float:left;
+    width: 50%;
+    overflow: hidden;
+    height: 300px;
+    
+    background-color: chartreuse;  
+
+}
+
+#middle-right {
+    overflow: hidden;
+    width: 50%;    
+    float: right;
+    height: 300px;
+    background: url(../images/ship-excavation.jpg) no-repeat center center;
+    background-color: #08140e;
+}
+
+/* bottom div */
+
+#bottom-left {
+    float:left;
+    width: 50%;
+    overflow: hidden;
+    height: 300px;
+    background: url(../images/392px-gold-belt-buckle-sutton-hoo-british-museum.jpg) no-repeat center center;
+    background-color: #08140e;
+    
+
+}
+
+#bottom-right {
+    overflow: hidden;
+    width: 50%;
+    background-color: chartreuse;
+    float: right;
+    height: 300px;
+    
+}
