@@ -74,7 +74,7 @@ h1, h2, h3 {
 }
 
 #cover-text {
-    font-size: 130%;
+    font-size: 140%;
     font-family: Source-Sans-Pro;
     text-transform: uppercase;
 
@@ -101,6 +101,14 @@ h1, h2, h3 {
 
 /* upper div */
 
+.upper {
+    padding: 10px;
+}
+
+.text {
+    padding: 30px;
+}
+
 #upper-left {
     float:left;
     width: 50%;
@@ -122,9 +130,14 @@ h1, h2, h3 {
     color: whitesmoke;
     padding-top: 30px;
     
+    
 }
 
 /* middle div */
+
+.middle {
+    padding: 10px;
+}
 
 #middle-left {
     float:left;
@@ -134,6 +147,7 @@ h1, h2, h3 {
     color: whitesmoke;
     background-color: #08140e;  
     padding-top: 30px;
+    clear: right;
 }
 
 #middle-right {
@@ -147,6 +161,10 @@ h1, h2, h3 {
 }
 
 /* bottom div */
+
+.bottom {
+    padding: 10px;
+}
 
 #bottom-left {
     float:left;

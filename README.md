@@ -7,7 +7,7 @@ Screen Shots
 
 Features
 
-Navigation Bar not needed as only 1 page. 
+Navigation Bar to navigate between sections. 
 #Sutton Hoo           Top  Treasures  History  Visit
 
 links to all sections for easy navigation
