@@ -68,7 +68,7 @@ h1, h2, h3 {
 }
 
 #hero-image {
-    height: 600px;
+    height: 900px;
     width: 100%;
     background: url(../images/hero-image-©Phil-Morley-30.jpg) no-repeat center center;
 }
@@ -96,34 +96,3 @@ h1, h2, h3 {
 
 #treasures {
     height: 600px;
-}
-
-#left-treasures {
-    padding-top:  30px;
-    width: 33%;
-    float: left;
-    background-color: rgb(34, 238, 238);
-}
-
-
-#right-treasures {
-    padding-top: 30px;
-    width: 33%;
-    float: right;
-    background-color: rgb(45, 235, 45);
-}
-
-#center-text {
-    padding-top: 30px;
-    width: 33%;
-    margin: 0 auto;
-    background-color: rebeccapurple;
-}
-
-/* Add images */
-
-
-#purse {
-    height: 300px;
-    width: auto;
-}

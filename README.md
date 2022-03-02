@@ -15,12 +15,14 @@ links to all sections for easy navigation
 
 Landing Page image
 
-The landing page has an image of the ship and overlay 'Sutton Hoo Anglo-Saxon Ship Burial' and overlay image of the iconic helmet
+The landing page has an image of the ship and overlay 'Sutton Hoo Anglo-Saxon Ship Burial'.
 
 
 ##Treasures Section
 
 Photos of the main discoveries with a caption - fig img figcaption - Helmet, Shield, Jewellery, Weapons. Photos of the exciting discoveries will draw the user in, a caption will tell them what they are looking at. Central section with text and a scroll bar will allow them to read more about the finds, when they were found, where. 
+
+https://www.britishmuseum.org/sites/default/files/styles/uncropped_small/public/2019-10/gold-belt-buckle-sutton-hoo-british-museum-1000-500.jpg?itok=ZWRnZ1pQ
 
 ##History Section
 
@@ -74,6 +76,7 @@ Deployment information taken from Love Running README.md file
 
 How to create an anchor link within a page - W3docs https://www.w3docs.com/snippets/html/how-to-create-an-anchor-link-to-jump-to-a-specific-part-of-a-page.html
 
+How to display two divs side by side - https://stackoverflow.com/questions/17217766/two-divs-side-by-side-fluid-display
 
 Content 
 
