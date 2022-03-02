@@ -63,7 +63,7 @@ h1, h2, h3 {
     position:relative
 }
 
-#cover-text, #cover-text h2, h3{
+#cover-text, #cover-text h2, h3 {
     color: whitesmoke;
 }
 
@@ -92,7 +92,31 @@ h1, h2, h3 {
     position: absolute;
 }
 
-/* the treasures */
+/* history section */
 
-#treasures {
-    height: 600px;
+#history {
+    height: 900px;
+    
+}
+
+/* upper div */
+
+#upper-left {
+    float:left;
+    width: 50%;
+    overflow: hidden;
+    height: 300px;
+    background: url(../images/Sutton-hoo-helmet-europe-british-museum.jpg) no-repeat center center;
+    background-color: #08140e;
+    
+
+}
+
+#upper-right {
+    overflow: hidden;
+    width: 50%;
+    background-color: chartreuse;
+    float: right;
+    height: 300px;
+    
+}
