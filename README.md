@@ -195,7 +195,7 @@ The website was tested on the following:
 
 ## Bugs
 
-
+- Icons for links in the footer not appearing. Realised I'd forgotten to add the Font Awesome script. Added the script and the icons appeared.
 
 
 
