@@ -1,7 +1,62 @@
 # project-1
 #Sutton Hoo
 
-This is a website for people interested in history and archaeology. It will show what was discovered at the site of Sutton Hoo and will provide some historical background to the findings. Users will be able to see photos of the treasures discovered in the mound and of the reconstruction of the ship burial. They will be able to find out how to visit the site in Suffolk and where to see the treasures, which are located in the British Museum. They will also be able to read about what some of the archaealogocal findings have revealed about 7th Century Anglo-Saxon Britain.
+## Project Goals
+
+### User Goals
+
+- Find out about what was discovered there
+- Learn what the findings have shown
+- Find the location of the site
+- See images of some of the treasures discovered
+- Find links to more information
+
+### Site Owner Goals
+
+- Provide historical information about Sutton Hoo
+- Encourage learning about history
+- Provide information about the site 
+- Encourage people to visit Sutton Hoo
+
+## User Experience
+
+### Target Audience
+
+- People interested in history and archaeology
+- Tourists looking for interesting places to visit
+- Locals wanting to find out more about their area
+
+### User Requirements and Expectations
+
+- Simple navigation system around the webpage
+- Find information easily and quickly
+- Links work as expected 
+- Content is accurate and informative
+- Good design and presentation regardless of screen size
+
+### User Stories
+
+#### First Time User
+
+- As a first time user I want to:
+
+    - Find out who discovered Sutton Hoo and when
+    - What was found there
+    - See images of the discoveries
+    - Find out how to visit Sutton Hoo
+
+####  Returning User
+
+- As a returning user I want to:
+
+    - 
+
+#### Site Owner
+
+- As the site owner I want to:
+
+    - Provide 
+ 
 
 Screen Shots
 
