@@ -52,7 +52,7 @@
     - Find out who discovered Sutton Hoo and when
     - Read about the discoveries
     - Find out how to visit the site
-    - 
+    - Find out where I can see the the artefacts on display
 
 #### Site Owner
 
@@ -99,7 +99,7 @@ Font Awesome
 
 ## Features
 
-The site consists of 1 page and ? features
+The site consists of 1 page and 5 features
 
 ### Logo and Navigation Bar
 
@@ -112,6 +112,7 @@ The site consists of 1 page and ? features
 - Links to return to the top of the page feature at the bottom of each section
 - Allow the user to easily navigate around the page
 
+
 ### Footer
 
 Sits at the bottom of the page and provides links to other sites with more information about visiting the site and the artefacts discovered on the dig. 
@@ -120,30 +121,19 @@ Sits at the bottom of the page and provides links to other sites with more infor
 
 Shows where the site is located on Google maps
 
+### Sign Up Form
 
- 
-
-
-
-
-Landing Page image
-
-The landing page has an image of the ship and overlay 'Sutton Hoo Anglo-Saxon Ship Burial'.
+The user can sign up to receive regular emails about the reconstruction of the longship
 
 
-##Treasures Section
+## Validation
 
-Photos of the main discoveries with a caption - fig img figcaption - Helmet, Shield, Jewellery, Weapons. Photos of the exciting discoveries will draw the user in, a caption will tell them what they are looking at. Central section with text and a scroll bar will allow them to read more about the finds, when they were found, where. 
+
+
 
 https://www.britishmuseum.org/sites/default/files/styles/uncropped_small/public/2019-10/gold-belt-buckle-sutton-hoo-british-museum-1000-500.jpg?itok=ZWRnZ1pQ
 
-##History Section
 
-Two areas of text with more in-depth information about the burial and what it has taught us. A timeline of Anglo Saxon Britain from 600 to 700 AD. 
-
-paragraph Date of burial, who might have been in the grave 
-                                                                                                      unordered list for Timeline of Anglo-Saxon Britain 600-700AD
-paragraph Insights from the excavation
 
 
 
