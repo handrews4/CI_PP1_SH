@@ -1,4 +1,3 @@
-# project-1
 #Sutton Hoo
 
 ## Project Goals
@@ -6,10 +5,10 @@
 ### User Goals
 
 - Find out about what was discovered there
-- Learn what the findings have shown
+- Learn what some of the findings have shown
 - Find the location of the site
 - See images of some of the treasures discovered
-- Find links to more information
+- Find out how to visit the site where to go for more information 
 
 ### Site Owner Goals
 
@@ -17,6 +16,7 @@
 - Encourage learning about history
 - Provide information about the site 
 - Encourage people to visit Sutton Hoo
+- Provide links to further reading
 
 ## User Experience
 
@@ -53,6 +53,7 @@
     - Read about the discoveries
     - Find out how to visit the site
     - Find out where I can see the the artefacts on display
+    - Find further in depth information
 
 #### Site Owner
 
@@ -61,6 +62,7 @@
     - Provide accurate and informative historical information
     - I want users to enjoy reading about the discovery
     - I want users to be able to sign up for more information
+    - i want ot provide a further reading list
 
 ## Design
 
@@ -111,6 +113,8 @@ The site consists of 1 page and 5 features
 
 - Links to return to the top of the page feature at the bottom of each section
 - Allow the user to easily navigate around the page
+
+### Links to further reading material
 
 
 ### Footer
@@ -214,7 +218,7 @@ Once selected the page will automatically refresh with a detailed ribbon display
 
 The live link can be found here:  
 
-Credits
+## Credits
 
 Deployment information taken from Love Running README.md file
 
