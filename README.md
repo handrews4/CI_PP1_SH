@@ -40,32 +40,90 @@
 
 - As a first time user I want to:
 
-    - Find out who discovered Sutton Hoo and when
-    - What was found there
+    - Know more about Sutton Hoo
     - See images of the discoveries
-    - Find out how to visit Sutton Hoo
+    - Find out if there is more information elsewhere
+
 
 ####  Returning User
 
 - As a returning user I want to:
 
+    - Find out who discovered Sutton Hoo and when
+    - Read about the discoveries
+    - Find out how to visit the site
     - 
 
 #### Site Owner
 
 - As the site owner I want to:
 
-    - Provide 
+    - Provide accurate and informative historical information
+    - I want users to enjoy reading about the discovery
+    - I want users to be able to sign up for more information
+
+## Design
+
+### Design Choices
+
+The website was designed to evoke the feeling of discovering artefacts on an archaeological dig.
+The dark background hints at treasures long hidden away from sight and highlights the dazzling brilliance of the images.
+
+### Colour
+
+### Fonts
+
+Chosen from Google fonts and recommended by https://bootcamp.uxdesign.cc/10-google-font-pairings-for-your-next-design-project-8e29f46c788c, the pairing gives a clean look with similar curvatures and vertical letter heights for easy reading. 
+
+### Structure
+
+The structure is simple and straightforward with only one page. There is a clear navigation bar at the top so users can easily move to other parts of the site and navigation elements at the bottom of each section to return to the top of the page. Each section is defined by a header to inform the user what the section is about. Sections are:
+    - Home page with title and navigation bar
+    - Discovery of a Lifetime with images and historical information
+    - To visit or find out more with links to other sources of information about Sutton Hoo
+    - A sign up form to receive monthly emails about the ship rebuild project
+
+## Technologies Used
+
+### Languages
+
+- HTML
+- CSS
+
+### Tools
+
+GitHub
+GitPod
+Google Fonts
+Font Awesome
+
+## Features
+
+The site consists of 1 page and ? features
+
+### Logo and Navigation Bar
+
+- Sits at the top of the page
+- Allows the user to move to any section of the page
+- The navigation bar is fully responsive and changes to a toggler on smaller screens and includes links to the other sections
+
+### Links to return to the top
+
+- Links to return to the top of the page feature at the bottom of each section
+- Allow the user to easily navigate around the page
+
+### Footer
+
+Sits at the bottom of the page and provides links to other sites with more information about visiting the site and the artefacts discovered on the dig. 
+
+### Map
+
+Shows where the site is located on Google maps
+
+
  
 
-Screen Shots
 
-Features
-
-Navigation Bar to navigate between sections. 
-#Sutton Hoo           Top  Treasures  History  Visit
-
-links to all sections for easy navigation
 
 
 Landing Page image
@@ -132,6 +190,8 @@ Deployment information taken from Love Running README.md file
 How to create an anchor link within a page - W3docs https://www.w3docs.com/snippets/html/how-to-create-an-anchor-link-to-jump-to-a-specific-part-of-a-page.html
 
 How to display two divs side by side - https://stackoverflow.com/questions/17217766/two-divs-side-by-side-fluid-display
+
+Many thanks to my mentor - Mo Shami for his invaluable advice and guidance
 
 Content 
 
