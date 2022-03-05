@@ -197,9 +197,18 @@ The website was tested on the following:
 
 - Icons for links in the footer not appearing. Realised I'd forgotten to add the Font Awesome script. Added the script and the icons appeared.
 
-- Icon for last link to NT in footer still not appearing, even after adding the Font Awesome Script. Tried moving the script to the head of the html document but this did not help.
+- Icon for last link to NT in footer still not appearing, even after adding the Font Awesome Script. Tried moving the script to the head of the html document as indicated by the Font Awesome Site but this did not help.
 
-Links to National Trust, British Museum, Longship Project for regular updates as per cl walkthrough
+- Checked terms and conditions on NT website - 
+
+        "11. Linking to the Site
+ 
+            11.1. You must not link to the Site for commercial purposes without our written agreement.
+ 
+            11.2. Other than as above, We encourage businesses and others to link their sites to the Site. However, if You wish to establish a link to the Site or any of its Content, we require that the link does not open within a frame-set of another website."
+        
+
+Links to National Trust, British Museum, Longship Project as per love running walkthrough
 
 
 
