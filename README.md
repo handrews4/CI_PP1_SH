@@ -128,35 +128,76 @@ The user can sign up to receive regular emails about the reconstruction of the l
 
 ## Validation
 
+### HTML Validation
+
+W3C Markup Validation Service was used to validate the HTML of the website. ??
+
+### CSS Validation
+
+W3C CSS Validation Service was used to validate the CSS of the website/. ??
+
+### Accessibility
+
+WAVE WebAIM web accessibility evaluation tool was used to ensure the website meets high accessibility standards. ??
+
+### Performance
+
+Google Lighthouse in Google Chrome Developer Tools was used to test the performance of teh website. ??
+
+### Performing tests on various devices.
+
+The website was tested on the following:
+
+    - Xiaomi 10T Light
+    - ipad
+    - Acer Aspire 5 
+
+### Performing tests on different browsers
+
+The website was tested on the following:
+
+    - Google Chrome
+    - Mozilla Firefox
+    - Microsoft Edge
+
+### Testing User Stories
+
+1. As a first time user I want to know more about Sutton Hoo
+
+
+    - See images of the discoveries
+
+    - Find out if there is more information elsewhere
+
+2.  As a returning user I want to:
+
+    - Find out who discovered Sutton Hoo and when
+
+    - Read about the discoveries
+
+    - Find out how to visit the site
+
+    - Find out where I can see the the artefacts on display
+
+    - Sign up to receive the newlsetter about the reconstruction of the longship
+
+3. As the site owner I want to:
+
+    - Provide accurate and informative historical information
+
+    - I want users to enjoy reading about the discovery
+
+    - I want users to be able to sign up for more information
+
+## Bugs
 
 
 
-https://www.britishmuseum.org/sites/default/files/styles/uncropped_small/public/2019-10/gold-belt-buckle-sutton-hoo-british-museum-1000-500.jpg?itok=ZWRnZ1pQ
 
-
-
-
-
-##SignUp Section - if time
-
-Sign Up to regular emails about the full size replica ship being rebuilt in Woodbridge. Form requiring First name Last Name and Email Address. Using POST method. 
-
-Footer
-
-
-paragraph To find out more or to visit the site
 
 Links to National Trust, British Museum, Longship Project for regular updates as per cl walkthrough
 
-Testing
 
-
-
-Validator Testing
-
-HTML
-
-CSS
 
 
 
