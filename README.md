@@ -197,7 +197,7 @@ The website was tested on the following:
 
 - Icons for links in the footer not appearing. Realised I'd forgotten to add the Font Awesome script. Added the script and the icons appeared.
 
-
+- Icon for last link to NT in footer still not appearing, even after adding the Font Awesome Script. Tried moving the script to the head of the html document but this did not help.
 
 Links to National Trust, British Museum, Longship Project for regular updates as per cl walkthrough
 
