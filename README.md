@@ -116,6 +116,8 @@ The site consists of 1 page and 5 features
 
 ### Links to further reading material
 
+- Allow the user to read in more depth about the site and the discoveries
+
 
 ### Footer
 
