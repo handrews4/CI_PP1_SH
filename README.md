@@ -202,7 +202,7 @@ The website was tested on the following:
 
 - Icons for links in the footer not appearing. Realised I'd forgotten to add the Font Awesome script. Added the script and the icons appeared.
 
-- Icon for last link to NT in footer still not appearing, even after adding the Font Awesome Script. Tried moving the script to the head of the html document as indicated by the Font Awesome Site but this did not help.
+- Icon for last link in further reading section still not appearing, even after adding the Font Awesome Script. Tried moving the script to the head of the html document as indicated by the Font Awesome Site but this did not help.
 
 - Checked terms and conditions on NT website in case I was not allowed to link to their site but this is ok, see below - 
 
@@ -214,7 +214,7 @@ The website was tested on the following:
         
 - Realised I'd used a font from the pro section of Font Awesome. Changed to a free icon and it appeared.
 
-Links to National Trust, British Museum, Longship Project as per love running walkthrough
+
 
 
 
@@ -235,6 +235,8 @@ The live link can be found here:
 
 ## Credits
 
+Code Institue Diploma lessons used throughout, especially the Love Running walkthough.
+
 Deployment information taken from Love Running README.md file
 
 How to create an anchor link within a page - W3docs https://www.w3docs.com/snippets/html/how-to-create-an-anchor-link-to-jump-to-a-specific-part-of-a-page.html
@@ -245,7 +247,7 @@ Many thanks to my mentor - Mo Shami for his invaluable advice and guidance
 
 Content 
 
-Text from - Wikipedia Article
+Text adapted from - Wikipedia Article and British Museum website
 Icons in the further reading section from FontAwesome
 Fonts from Google Fonts
 colors selected from Quackit https://www.quackit.com/css/css_color_codes.cfm and https://rgbacolorpicker.com/

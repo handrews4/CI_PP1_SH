@@ -208,6 +208,25 @@ h1, h2, h3 {
         font-size: 100%;
     }
 
+    /* Google Map */
+
+    .map {
+        padding: 10px;
+        float: left;
+        width: 50%;
+        overflow:hidden;
+    }
+
+    .map-comment {
+        overflow: hidden;
+        width: 50%;
+        float: right;
+        color: whitesmoke;
+        padding-top: 30px;
+        height: 500px;
+
+    }
+
     /* footer */
 
     footer {
