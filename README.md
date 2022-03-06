@@ -62,7 +62,7 @@
     - Provide accurate and informative historical information
     - I want users to enjoy reading about the discovery
     - I want users to be able to sign up for more information
-    - i want ot provide a further reading list
+    - I want to provide a further reading list
 
 ## Design
 
@@ -82,7 +82,8 @@ Chosen from Google fonts and recommended by https://bootcamp.uxdesign.cc/10-goog
 The structure is simple and straightforward with only one page. There is a clear navigation bar at the top so users can easily move to other parts of the site and navigation elements at the bottom of each section to return to the top of the page. Each section is defined by a header to inform the user what the section is about. Sections are:
     - Home page with title and navigation bar
     - Discovery of a Lifetime with images and historical information
-    - To visit or find out more with links to other sources of information about Sutton Hoo
+    - Further Reading with links to other websites about Sutton Hoo
+    - Google Map of the location of Sutton Hoo
     - A sign up form to receive monthly emails about the ship rebuild project
 
 ## Technologies Used
@@ -118,14 +119,16 @@ The site consists of 1 page and 5 features
 
 - Allow the user to read in more depth about the site and the discoveries
 
+### Google Map
+
+- The user can easily find directions to the site
+- The user can see where the site is located
+- The user can see other places of interest in the area
+
 
 ### Footer
 
-Sits at the bottom of the page and provides links to other sites with more information about visiting the site and the artefacts discovered on the dig. 
-
-### Map
-
-Shows where the site is located on Google maps
+Sits at the bottom of the page ?. 
 
 ### Sign Up Form
 
@@ -243,10 +246,10 @@ Many thanks to my mentor - Mo Shami for his invaluable advice and guidance
 Content 
 
 Text from - Wikipedia Article
-Icons in the footer from FontAwesome
+Icons in the further reading section from FontAwesome
 Fonts from Google Fonts
 colors selected from Quackit https://www.quackit.com/css/css_color_codes.cfm and https://rgbacolorpicker.com/
-
+Google Map from Google Map generator - https://google-map-generator.com/
 
 Media
 
