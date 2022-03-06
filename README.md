@@ -1,4 +1,4 @@
-#Sutton Hoo
+# Sutton Hoo
 
 ## Project Goals
 
