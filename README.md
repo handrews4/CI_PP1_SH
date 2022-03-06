@@ -201,7 +201,7 @@ The website was tested on the following:
 
 - Icon for last link to NT in footer still not appearing, even after adding the Font Awesome Script. Tried moving the script to the head of the html document as indicated by the Font Awesome Site but this did not help.
 
-- Checked terms and conditions on NT website - 
+- Checked terms and conditions on NT website in case I was not allowed to link to their site but this is ok, see below - 
 
         "11. Linking to the Site
  
@@ -209,6 +209,7 @@ The website was tested on the following:
  
             11.2. Other than as above, We encourage businesses and others to link their sites to the Site. However, if You wish to establish a link to the Site or any of its Content, we require that the link does not open within a frame-set of another website."
         
+- Realised I'd used a font from the pro section of Font Awesome. Changed to a free icon and it appeared.
 
 Links to National Trust, British Museum, Longship Project as per love running walkthrough
 
