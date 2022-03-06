@@ -185,4 +185,26 @@ h1, h2, h3 {
     height: 300px;
     color: whitesmoke;
     padding-top: 30px;
+
 }
+
+    /* footer */
+
+    footer {
+        height: 150px;
+    }
+
+    footer > ul {
+        text-align: center;
+    }
+
+    .more-info li {
+        display: inline;
+    }
+
+    .more-info i {
+        font-size: 200%;
+        padding: 2%;
+        margin: 1%;
+        color: #08140e;
+    }
