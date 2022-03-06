@@ -191,7 +191,22 @@ h1, h2, h3 {
 
 /* Further Reading Section*/
 
+    .further-reading {
+        
+        color: whitesmoke;
+        line-height: 75px;
+    }
 
+    .further-reading i, a {
+        font-size: 125%;
+        padding: 1%;
+        margin: 1%;
+        color: whitesmoke;
+    }
+
+    .further-reading > p {
+        font-size: 100%;
+    }
 
     /* footer */
 
