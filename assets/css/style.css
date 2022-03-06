@@ -41,17 +41,16 @@ h1, h2, h3 {
     float: right;
     list-style-type: none;
     margin-right: 30px;
-  
+    
 }
 
 
 #menu a {
-    color: darkslategrey;
-    text-decoration: none;
+        text-decoration: none;
+        color: whitesmoke;
 }
 
-#menu a:hover {
-    color:rgb(2, 1, 14);
+#menu a:hover {    
     text-decoration: underline;
 }
 
